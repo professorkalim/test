@@ -1,7 +1,8 @@
 ---
 title: "01 Introduction to R"
 author: "Statistics"
-output: html_document
+output:
+  rmarkdown::github_document
 ---
 
 ```{r setup, include=FALSE}
