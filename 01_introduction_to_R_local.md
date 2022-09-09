@@ -72,7 +72,7 @@ table(x)
 
 ## Operations on Vectors
 
-R can also perform operations on vectors
+R can also perform operations on vectors.  Try the following:
 
 ```r
 x^2
